@@ -41,7 +41,7 @@
     </header>
     <div class="container">
         <h2> About Me</h2>
-        <p>من مهدی [نام‌خانوادگی شما] هستم، دانشجوی [رشته تحصیلی] در دانشگاه [نام دانشگاه].</p>
+        <p>I'm mahdighadiri undergraduate at .</p>
         
         <h3>دستاوردها و فعالیت‌ها</h3>
         <ul>
